@@ -1,6 +1,6 @@
 {
   "version": "0.4.1",
   "update_url": "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/SUBLEVEL_update.zip",
-  "sha256": "790aba2e0fc994192fca045c45f9ec1cae5ac68e2b8d3a2ef3774f6669751cdb",
+  "sha256": "16825a1d7174df2ead396f67f140c9c70503516bcc34f4ea9b5e0489609612b5",
   "notes": "일본어 UI 제거 · 합성 접속음 제거 · 업로드된 다이얼업 MP3 전체 재생 · GitHub 자동 업데이트 연결"
 }
