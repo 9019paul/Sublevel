@@ -1,5 +1,5 @@
 {
-  "version": "0.4.1",
+  "version": "0.5.0",
   "update_chunks": [
     "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/chunks/update_000.b64",
     "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/chunks/update_001.b64",
@@ -7,8 +7,9 @@
     "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/chunks/update_003.b64",
     "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/chunks/update_004.b64",
     "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/chunks/update_005.b64",
-    "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/chunks/update_006.b64"
+    "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/chunks/update_006.b64",
+    "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/chunks/update_007.b64"
   ],
-  "sha256": "16825a1d7174df2ead396f67f140c9c70503516bcc34f4ea9b5e0489609612b5",
-  "notes": "일본어 UI 제거 · 합성 접속음 제거 · 업로드된 다이얼업 MP3 전체 재생 · GitHub 자동 업데이트 연결"
+  "sha256": "98bd9489e5930b4dd9e8c1ddd3f6c788745adf961202e46826d7b832a0b280d0",
+  "notes": "DUAL INTERFACE: LEGACY ↔ NEXUS · 미래형 DATA ARCHIVE/MEDIA CORE · NEXUS HUD/효과음 · 기존 SQLite/이미지/THEATER 데이터 유지"
 }
