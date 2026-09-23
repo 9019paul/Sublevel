@@ -3,11 +3,13 @@
   "update_chunks": [
     "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/v0.5/update_000.b64",
     "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/v0.5/update_001.b64",
-    "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/v0.5/update_002.b64",
+    "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/v0.5/update_002a.b64",
+    "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/v0.5/update_002b.b64",
     "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/v0.5/update_003.b64",
     "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/v0.5/update_004.b64",
     "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/v0.5/update_005.b64",
-    "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/v0.5/update_006.b64",
+    "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/v0.5/update_006a.b64",
+    "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/v0.5/update_006b.b64",
     "https://raw.githubusercontent.com/9019paul/Sublevel/main/dist/v0.5/update_007.b64"
   ],
   "sha256": "541c5fd03d395275b78d560630e2d80bb43d517b6084c320d69a8b8f54af2122",
